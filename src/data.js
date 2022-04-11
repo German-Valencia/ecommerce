@@ -836,6 +836,11 @@ const data = {
         "- La banda de resistencia y fuerza de dedos y Muñecas son ideales para escalada, entusiastas de los deportes de pelota y músicos, sirven para aumentar la fuerza y flexibilidad de los dedos; también es adecuado para personas que usan regularmente ordenadores y teléfonos móviles para aliviar la fatiga y la incomodidad de la mano, prevenir el dolor en las articulaciones y dolores musculares.",
     },
     {
+      _id: "61",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Estufa Romero Torre Haceb 50 Cms Gas Natural Negra",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_865191-MCO45241779530_032021-O.webp",
@@ -845,6 +850,11 @@ const data = {
         "Con cuatro fogones de diferentes tamaños para versatilidad en la cocción, parrilla continua antideslizante que da estabilidad a los recipientes y horno de gran capacidad con visor amplio para hacer seguimiento a sus recetas. Además, el respaldo único de servicio Haceb.",
     },
     {
+      _id: "62",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Nevera Haceb Siberia 240 Litros Manija Integrada Titanio",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_861351-MCO47311932385_082021-O.webp",
@@ -854,6 +864,11 @@ const data = {
         "Con excelente diseño que se integra perfectamente con tu espacio y le dan un aire moderno y minimalista, gracias a su diseño de manija integrada.",
     },
     {
+      _id: "63",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Freidora De Aire Imusa Easy Fry Deluxe 4,2l Digital",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_859295-MCO47877846824_102021-O.webp",
@@ -863,6 +878,11 @@ const data = {
         "La Freidora de Aire IMUSA Easy Fry Deluxe 4,2L digital, te permite realizar recetas saludables para toda la familia, requiere poco o inclusive nada de aceite, para freir, asar y hornear todas tus comidas favoritas. Su capacidad de 4,2 litros te permitirá realizar hasta 6 porciones a la vez. Su pantalla táctil digital hace más óptimo y fácil la preparación de las recetas.",
     },
     {
+      _id: "64",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Lavadora Semiautomática Electrolux Etb14m3msupw 14kg",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_659073-MCO44116425716_112020-O.webp",
@@ -872,6 +892,11 @@ const data = {
         "La lavadora ETB14M3MSUPW Electrolux es semiautomática con doble tina de 14kg que con su fácil manejo y efectivo funcionamiento ahora podrás darle la limpieza y cuidado adecuado a toda tu ropa en un menor tiempo y sin desaprovechar tu tiempo libre.",
     },
     {
+      _id: "65",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Nevera Himalaya 404 Litros Haceb - Control Interno - Titanio",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_977862-MCO46567699495_062021-O.webp",
@@ -881,6 +906,11 @@ const data = {
         "Combinación de diseño, potencia, eficiencia y capacidad. Se integra perfectamente con tu espacio dándole un aire moderno y minimalista.",
     },
     {
+      _id: "66",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Aspiradora Black+Decker Power Pro VCBD8530 2.5L verde 220V",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_982776-MLA47608794870_092021-O.webp",
@@ -890,6 +920,11 @@ const data = {
         "Cuenta con un eficiente sistema de filtrado que retiene la suciedad y hace que el aire que sale del aparato sea totalmente puro y libre de partículas que producen molestias respiratorias.",
     },
     {
+      _id: "67",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Lonchera Eléctrica Kalley Porta Comida 1.1lt, Garantía 1 Año",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_641609-MCO46234428206_062021-O.webp",
@@ -899,6 +934,11 @@ const data = {
         "Ahora puedes llevar tus alimentos contigo a donde sea que vayas y calentarlos de forma inmediata, fácil y cómoda. La lonchera eléctrica Kalley K-MLE60G2 cuenta con una capacidad de 1.1 litros e incluye 2 recipientes y 1 cuchara para llevar tus preparaciones.",
     },
     {
+      _id: "68",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Plancha de cabello Remington Frizz Therapy Frizz Control S8510 morada 120V/240V",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_697043-MLA46429695491_062021-O.webp",
@@ -908,6 +948,11 @@ const data = {
         "Remington es una marca líder en el mercado que impulsa la innovación y ofrece un servicio excepcional a sus usuarios. La plancha, al igual que su extensa línea de productos, está creada con materiales y tecnologías de gran nivel por lo que es una excelente compañera para tu rutina de belleza.",
     },
     {
+      _id: "69",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Aspiradora trapeadora robot Eufy RoboVac G10 Hybrid negra 100V/240V",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_739390-MLA45993650271_052021-O.webp",
@@ -917,6 +962,11 @@ const data = {
         "La marca Eufy desarrolla electrodomésticos inteligentes, fáciles de usar y pensados para mejorar la vida de sus clientes. La G10 Hybrid hará la tarea por ti y te permitirá ahorrar tiempo y esfuerzo.",
     },
     {
+      _id: "70",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Lavadora Carga Superior Con Agitador Electrolux L17ac 17kg",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_745630-MCO42230787264_062020-O.webp",
@@ -926,6 +976,11 @@ const data = {
         "La lavadora L17AC Electrolux está diseñada pensando en el cuidado de la ropa, cuenta con un dispensador de suavizante y cloro, iluminación de estado de ciclo. Su tina es en acero inoxidable y su tapa es en cristal enmarcada",
     },
     {
+      _id: "71",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Pesa Balanza Inteligente Bluetooth Grasa Peso Corporal",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_740684-MCO48256255595_112021-O.webp",
@@ -935,6 +990,11 @@ const data = {
         "La báscula inteligente es tu mejor asistente para la salud, te permite medir y controlar 8 métricas corporales diferentes, con sincronización directa con la APP para celular. Esta técnica con funcionalidad Bluetooth permiten que toda la familia comparta una sola báscula para llevar los registros de las mediciones necesarias para una óptima salud. Mantente a ti y a tu familia siempre saludables!",
     },
     {
+      _id: "72",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Cafetera Italiana Aluminio Holstein Roja 6 Tazas",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_782967-MCO32547423511_102019-O.webp",
@@ -944,6 +1004,11 @@ const data = {
         "Cafetera con cobertura en aluminio. Capacidad de 6 tazas tipo expresso (tazas con capacidad de 66ml cada una o capacidad de 2 tazas de tinto grandes). Color Rojo Metalizado. Diseño de asa ergonómico. Tiene válvula de seguridad. De fácil uso. Para lograr café recien hecho en casa. Tapa qua abre en sentido vertical. Elaborada en China.",
     },
     {
+      _id: "73",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Kit 3 Repuestos Para Filtro Purificador Ecotrade Filters",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_601569-MCO49160389419_022022-O.webp",
@@ -953,6 +1018,11 @@ const data = {
         "KIT 3 REPUESTOS PARA FILTRO PURIFICADOR AGUA ECOTRADE Y ECOFILTER",
     },
     {
+      _id: "74",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Ventilador Altezza 3 En 1 Aspa Tiburon Blanco",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_833798-MCO47004843804_082021-O.webp",
@@ -962,6 +1032,11 @@ const data = {
         "• Ventilador pedestal 16p base cruz. • Color: Blanco • 3 Velocidades • Hélice: tipo banana. • Material de la base: Metal. • Voltaje: 110V - 60Hz. • Potencia: 45 Watts. • Malla metálica. • Clavija de dos entradas.",
     },
     {
+      _id: "75",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Licuadora Oster BEST02-E01 1.5 L gris con vaso de vidrio 120V",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_931606-MLA46238334742_062021-O.webp",
@@ -971,6 +1046,11 @@ const data = {
         "Durante décadas Oster está comprometida en el lanzamiento de productos domésticos para que sientas la pasión de crear nuevas recetas con facilidad. Descubre un mundo de posibilidades en la cocina con la licuadora BEST02-E01 y dale rienda suelta a la creatividad.",
     },
     {
+      _id: "76",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Plancha Para La Barba Y Pelo De Hombre Cepillo De Cabello",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_778426-MCO47753026552_102021-O.webp",
@@ -980,6 +1060,11 @@ const data = {
         "Esta plancha calienta rápidamente, en aproximadamente 15 segundos, el calentamiento uniforme evita 'puntos calientes' evitando quemaduras.",
     },
     {
+      _id: "77",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Mini Maquina Coser Portatil 2 Velocidades Control Pedal 4en1",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_932989-MCO32590764615_102019-O.webp",
@@ -989,6 +1074,11 @@ const data = {
         "Mini máquina de coser de 2 velocidades ofrece doble hilo y un perfecto control de puntadas, Para cualquier costura de telas livianos; Interruptor de mano o pedal para iniciar La bobina superior permite un fácil enhebrado; Rebobinado automático de hilo",
     },
     {
+      _id: "78",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Waflera Hamilton Beach",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_898432-MCO43696506909_102020-O.webp",
@@ -998,6 +1088,11 @@ const data = {
         "• Versátil y delicioso • Acero inoxidable de calidad superior • Rejillas antiadherentes estilo belga prepara 2 wafles • Luces indicadoras de encendido y precalentado Indican cuando está encendida y cuando agregar la masa • Almacenamiento compacto vertical - la tapa se traba para un fácil almacenamiento • Selector de dorado selecciona de un dorado ligero a uno oscuro y crujiente • Dimensiones del artículo LxWxH: 8.66 x 4.53 x 7.72 pulgadas",
     },
     {
+      _id: "79",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Plancha Antiadherente Durathon Hamilton Beach",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_737869-MCO43696507613_102020-O.webp",
@@ -1007,6 +1102,11 @@ const data = {
         "Elimina mejor las arrugas con más vapor continuo que el competidor principal. Su suela Durathon™ es 10 veces más resistente que las suelas antiadherentes tradicionales",
     },
     {
+      _id: "80",
+      category: "appliance",
+      brand: "Samsung",
+      rating: 4.5,
+      numReviews: 10,
       name: "Horno de mesa eléctrico Kalley K-HE09B 9L blanco 110V-120V",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_894938-MLA46043486228_052021-O.webp",
@@ -1016,6 +1116,11 @@ const data = {
         "Si tu cocina es pequeña, el horno de mesa es la mejor solución. Disfrutarás de las mismas ventajas que con uno convencional y ganarás practicidad y comodidad.",
     },
     {
+      _id: "81",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa Coleman Doble Tendido 4 Personas Tienda De Campaña",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_710698-MCO45048021231_032021-V.webp",
@@ -1025,6 +1130,11 @@ const data = {
         "Somos Marca líder con más de 100 años en el Mercado, especializados en equipos y accesorios en la categoría Outdoor para el disfrute de las actividades recreativas al aire libre, como excursión, camping, playera, hogar y accesorios.",
     },
     {
+      _id: "82",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa Doble Tendido Coleman 4 Personas Tienda De Campaña",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_643971-MCO31537069095_072019-V.webp",
@@ -1034,6 +1144,11 @@ const data = {
         "- Resistencia: 35+ MPH / 56+ KPH - Columnas de Agua: 2.000 mm a 2.500 mm. Armado en 8 minutos. - Maleta para trasportar. - Caben 4 tapetes y 4 Colchones. - Material varillas: Fibra de vidrio. - Sistema impermeable. - Sistema weather Tec TM a prueba de cualquier clima. - Toldo extra grande para una mayor resistencia al frió. - Piso tipo tina para evitar filtraciones. - Las ventanas laterales se pueden abrir y cerrar dependiendo del clima. - Peso: 5.1 kg. - Medidas aproximadas: 2.40mts x 2.00mts. Altura: 1.4mts.",
     },
     {
+      _id: "83",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Combo Carpa 4 Personas Klimber+colchon+almohadas+inflador+..",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_903618-MCO49326131937_032022-V.webp",
@@ -1043,6 +1158,11 @@ const data = {
         "Combo Carpa 4 personas Klimber + Colchon Doble + Almohadas + Inflador Bomba Pie + ENVIO GRATIS",
     },
     {
+      _id: "84",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa Coleman Doble Tendido 4 Personas Tienda De Campaña",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_710698-MCO45048021231_032021-V.webp",
@@ -1052,6 +1172,11 @@ const data = {
         "- Dimensiones: 140 cm (Alto) x 260 com (Ancho) x 200 cm (Largo). - Resiste Columnas de Agua: 1.500 mm a 2.000 mm (Resistencia Media - Baja).  Resistencia: 35+ MPH / 56+ KPH.  Peso: 5 kg.  Util y eficaz.  Color agradable para la vista.  Ligera y de fácil instalación.  Probada en lluvias y viento.  Casa de campaña tipo domo.  Se arma en aproximadamente 8 minutos.  Materiales 100% de alta calidad y resistencia.",
     },
     {
+      _id: "85",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa Doble Tendido Coleman 4 Personas Tienda De Campaña",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_643971-MCO31537069095_072019-V.webp",
@@ -1061,6 +1186,11 @@ const data = {
         "- Dimensiones: 140 cm (Alto) x 260 com (Ancho) x 200 cm (Largo). - Resiste Columnas de Agua: 1.500 mm a 2.000 mm (Resistencia Media - Baja).  Resistencia: 35+ MPH / 56+ KPH.  Peso: 5 kg.  Util y eficaz.  Color agradable para la vista.  Ligera y de fácil instalación.  Probada en lluvias y viento.  Casa de campaña tipo domo.  Se arma en aproximadamente 8 minutos.  Materiales 100% de alta calidad y resistencia.",
     },
     {
+      _id: "86",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Combo Carpa Camping 6 Personas Y Colchoneta Camping Confort",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_696567-MCO43918886613_102020-O.webp",
@@ -1070,6 +1200,11 @@ const data = {
         "- Dimensiones: 140 cm (Alto) x 260 com (Ancho) x 200 cm (Largo). - Resiste Columnas de Agua: 1.500 mm a 2.000 mm (Resistencia Media - Baja).  Resistencia: 35+ MPH / 56+ KPH.  Peso: 5 kg.  Util y eficaz.  Color agradable para la vista.  Ligera y de fácil instalación.  Probada en lluvias y viento.  Casa de campaña tipo domo.  Se arma en aproximadamente 8 minutos.  Materiales 100% de alta calidad y resistencia.",
     },
     {
+      _id: "87",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Repuesto Varillas Camping Fibra De Vidrio X 2 Sets Asgard",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_939188-MCO40340362690_012020-O.webp",
@@ -1079,6 +1214,11 @@ const data = {
         "Varilla de repuesto para carpa de 2 personas, las varillas ya vienen armadas con su respectiva cuerda, unicamente las despliegas y reemplazas las que estan ya dañadas.",
     },
     {
+      _id: "88",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa Coleman Doble Tendido 4 Personas Tienda De Campaña",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_655497-MCO48588529022_122021-O.webp",
@@ -1088,6 +1228,11 @@ const data = {
         "- Peso: 4.55 Kg. - Dimensiones: 335 cm (Largo) x 198 cm (Ancho) x 130 cm (Alto). - Resistencia a Columnas de Agua: : 2500mm a 3000mm (Resistencia Alta). - Sistema WHEATHERTEC™ con esquinas soldadas y costuras invertidas y selladas para evitar la filtración de agua. - Tecnología UVGuard™ que ayuda a proteger la casa de los rayos dañinos del sol. - Estructura resistente para soportar vientos de hasta 56 km/h+. - Con vestíbulo que crea un área seca para la entrada y almacenamiento de equipo. - Puerta amplia que aumenta la facilidad de entrada y salida de la casa. - Cuenta con un bolsillo para tus almacenar tus dispositivos electrónicos. - Mangas para las varillas que protegen contra enganches. - Malla contra insectos que aporta excelente ventilación. - Flujo de ventilación transpirable asegurando comodidad. - Bolsa de transporte incluida. - Rápida instalación .",
     },
     {
+      _id: "89",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa Coleman Doble Tendido 4 Personas Tienda De Campaña",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_710698-MCO48957087093_012022-O.webp",
@@ -1097,6 +1242,11 @@ const data = {
         "- Peso: 4.25 Kg. - Dimensiones: 244cm (Largo) x 198cm (Ancho) x 130cm (Alto). - Resistencia a Columnas de Agua: 2.000 mm a 2.500mm (Resistencia Media – Alta) - Toldo ¾ con estructura que protege contra agentes externos. - Sistema WHEATHERTEC™ con esquinas soldadas y costuras invertidas y selladas para evitar la filtración de agua. - Tecnología UVGuard™ que ayuda a proteger la casa de los rayos dañinos del sol. - Estructura resistente para soportar vientos de hasta 56 km/h+. - Puerta amplia tipo D que aumenta la facilidad de entrada y salida de la casa. - Cuenta con un bolsillo para tus almacenar tus dispositivos electrónicos. - Liviana y compacta para aventuras mochileras y acampar. - Malla contra insectos que aporta excelente ventilación. - Mangas continuas para las varillas que protegen contra enganches. - Bolsa de transporte incluida. - Fácil instalación.",
     },
     {
+      _id: "90",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Colchon Inflable Doble Reforzado + Inflador + Parche Refor",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_659086-MCO47255325112_082021-O.webp",
@@ -1106,6 +1256,11 @@ const data = {
         "Colchón DOBLE O 2 Plazas Inflable + inflador + 2 almohadas Incluye 1 colchón de 2 plazas. Soporta hasta 295Kg Ideal para uso interior y exterior. Ideal para irte de camping. De fácil inflado. Parte superior afelpada. Parche incluido. Inflador Volumen Sistólico 0,85L/Ciclo. Cámara de aire grande para Inflado rápido. Se infla subiendo y bajando. Tubo flexible.",
     },
     {
+      _id: "91",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa Camuflada Azul 2 Personas Asgard Camping 2x1.2",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_628430-MCO44022476622_112020-O.webp",
@@ -1115,6 +1270,11 @@ const data = {
         "Conoce la nueva colección de las Carpas Asgard, diseñadas y confeccionadas con la más alta tecnología, para brindarte la mayor comodidad y seguridad que te mereces, que tu única preocupación sea disfrutar de tus paseos y aventuras juntos a tu familia o amigos.",
     },
     {
+      _id: "92",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa 6 Personas Rain Forest Coleman",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_662423-MCO32688851036_102019-O.webp",
@@ -1124,6 +1284,11 @@ const data = {
         "Con gran capacidad de espacio, puede dormir 6 personas cómodamente, colocar 2 colchones inflables de tamaño queen, con toldo que protege de las lluvias manteniéndose fresca, de fácil armado con el sistema de anillo y clavija.",
     },
     {
+      _id: "93",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Catre Militar Camilla Plegable Camping Coleman",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_760160-MCO46188107584_052021-O.webp",
@@ -1133,6 +1298,11 @@ const data = {
         "Soporta hasta 136.4kg Tres patas plegables estilo tijera Bolsa de almacenamiento con asa Medidas: 190x 88x 43cm",
     },
     {
+      _id: "94",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Camping Lona Gruesa Aluminio Doble Capa Carpa Para 4 Persona",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_665937-MCO46452308697_062021-O.webp",
@@ -1142,6 +1312,11 @@ const data = {
         "Esta es de tela Lona por fuera en color por dentro metalizada para repeler el inclemente sol. Este producto tiene lona gruesa de alta densidad no es esa delgadita de las carpas baraticas, estas recibiendo un producto gama alta a price de gama baja. Este modelo al tener la cara interna en aluminio reduce la temperatura en dias soleados y en la lluvia es 50% mas impermeable que las carpas sencillas. Carpa de Camping para actividades al aire libre y con capacidad para 4 Personas, producto de alta calidad , puede ser utilizada para acampar en la playa, o campo.",
     },
     {
+      _id: "95",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa Alpes 4 Personas Eco + Colchón Inflable + Inflador",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_811092-MCO31916354879_082019-O.webp",
@@ -1151,6 +1326,11 @@ const data = {
         "Combo Carpa Alpes para 4 Personas Eco + Combo Colchón Inflable Doble más 2 Almohadas e Inflador Best Way",
     },
     {
+      _id: "96",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa Camping 6 Personas+colchoneta+lampara Para Camping",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_790155-MCO45387832453_032021-O.webp",
@@ -1160,6 +1340,11 @@ const data = {
         "COMBO CAMPING + COLCHONETA JUMBOLON AISLANTE DE FRIO +UNA LAMPARA PARA CAMPING; ENVIO INCLUIDO! Pensando en la comodidad de nuestros clientes, hemos diseñado este practico y económico combo de camping para 6 personas con colchoneta +lampara para camping, excelentes para actividades al aire libre",
     },
     {
+      _id: "97",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Silla Plegable 30 Pulgadas - Truper 61025",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_634384-MCO48957864833_012022-O.webp",
@@ -1169,6 +1354,11 @@ const data = {
         "Silla Camping Plegable Portátil 30p  Truper Fabricada en poliéster Estructura de acero Con portavasos Logotipo impreso en serigrafia color naranja",
     },
     {
+      _id: "98",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Mesa Plegable Portátil De Aluminio Para Camping Klatter",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_840830-MCO43989436067_112020-O.webp",
@@ -1178,6 +1368,11 @@ const data = {
         "1. Marca: Klatter 2. Modelo: 60C04F 3. Material: Aluminio  4. Medidas: 40 x 35 x 31 cm 6. Usos: Ideal para camping, senderismo, picnic y otras actividades al aire libre. 7. Ligera y compacta 8. Con bolsa para fácil transportación. 9. Peso máximo soportado: 15kg 10. País de origen: China",
     },
     {
+      _id: "99",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Colchoneta Camping Multi Color Rayas",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_881160-MCO31005681881_062019-O.webp",
@@ -1187,6 +1382,11 @@ const data = {
         "ESPUMA FLEXIBLE DE POLIURETANO NO PERMITE EL CRECIMIENTO DE ACAROS E INSECTOS EN GENERAL. BUEN AISLANTE DE CALOR, BUENA DUREZA Y RESISTENCIA DIMENSIONES: 175 X 65 X 3.5 DENSIDAD 15 TELA EN POLITEX 75 GM X 1.50 M",
     },
     {
+      _id: "100",
+      category: "camping",
+      brand: "carpas",
+      rating: 4.5,
+      numReviews: 10,
       name: "Carpa Toldo Armable Gazebo Normal De 2,4x2,4x3m En Rafia",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_982607-MCO48938124458_012022-O.webp",
@@ -1196,6 +1396,11 @@ const data = {
         "El Toldo Poliéster con Base 3x3 metros cuenta con una cubierta confeccionada en poliéster de alta gama, para que disfrutes de un producto duradero, práctico y de excelentes prestaciones. Este Toldo es ideal para espacios al aire libre, proporcionándote una eficiente protección contra la incidencia directa de los rayos del sol. Puedes usarlo en el jardín o patio, así como también en parques, playa o el campo.",
     },
     {
+      _id: "101",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Alimento Pro Plan OptiRenal Sterilized para gato adulto sabor salmón y arroz en bolsa de 3kg",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_992265-MLA48982270357_012022-O.webp",
@@ -1205,6 +1410,11 @@ const data = {
         "La selección de un alimento adecuado para tu mascota es muy importante para garantizar su crecimiento, desarrollo y salud. Con esta opción de Pro Plan podrás cubrir las necesidades nutricionales y energéticas de tu gato.",
     },
     {
+      _id: "102",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Tapete Alfombra Para Arenera Gato Recoge Arena",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_751996-MCO46758842922_072021-O.webp",
@@ -1214,6 +1424,11 @@ const data = {
         "Tapete recolector de arena, evita regueros de tu mascota gracias a este innovador producto Medidas: 50x40 cm",
     },
     {
+      _id: "103",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Guante Quita Pelo Masajeador Silicona Perros Gatos Mascotas",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_650004-MCO45392272033_032021-O.webp",
@@ -1223,6 +1438,11 @@ const data = {
         "1. Material de caucho, puede dar a su mascota un buen cuidado sin dañar la piel del animal doméstico. 2. Imita el toque de su mano para un masaje; incluye 180 puntas de silicona blanda para el novio con facilidad. 3. El pelo se pega a la guante, por lo que es fácil de quitar y tirar del pelo después del aseo del perro y gato 4. Mantenga su casa limpia con el guante táctil reduciendo al mínimo derramamiento de pelos de perros y gatos. 5. Para todos los tamaños y razas. Especificaciones: Color: Azul Oscuro tamaño: aprox. 23x18x4 cm/9.44x6.29in Material: Caucho",
     },
     {
+      _id: "104",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Hermosos Gimnasios Para Gato + Obsequio Juguete Envio Gratis",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_727736-MCO44300998032_122020-O.webp",
@@ -1232,6 +1452,11 @@ const data = {
         "Hermoso gimnasio para Gato, excelente calidad . Tela termica piel de conejo, muy suave y cómoda para tu gato . Variedad de colores y estampados disponibles Ya que somos fabricantes puedes elegir la combinación de colores que desees. Una vez realizada la compra nos contactaremos contigo para acordar el color deseado.",
     },
     {
+      _id: "105",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Feliway Classic Spray 60 Ml Para Gato",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_888232-MCO42241453670_062020-O.webp",
@@ -1241,6 +1466,11 @@ const data = {
         "- Miedo: mejora la sensación de familiaridad. Ayuda a que los gatos se adapten a situaciones que pueden suponerles un reto y a los nuevos entornos.  - Uso en la clínica: Los gatos se dejan manipular más fácilmente, consiguiendo que el examen clínico sea más sencillo. - Viajes: Disminución significativa de los comportamientos asociados a la ansiedad causados por el viaje, como los vómitos, la diarrea y las vocalizaciones. - Nuevo hogar/nuevo entorno: Conseguimos que el 100% de los gatos se sientan en su hogar desde el primer día ( No realizan marcajes con orina y vuelven a casa cada dia). - Arañazos: disminución apreciable en el 80% de los gatos en una semana. - Marcaje con orina: disminución del 90% tras el primer mes. Disminución significativa desde la primera semana.",
     },
     {
+      _id: "106",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Alimento Kirkland Signature Super Premium Maintenance Cat para gato adulto sabor pollo y arroz en bolsa de 25lb",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_923850-MLA46238178553_062021-O.webp",
@@ -1250,6 +1480,11 @@ const data = {
         "La selección de un alimento adecuado para tu mascota es muy importante para garantizar su crecimiento, desarrollo y salud. Con esta opción de Kirkland Signature podrás cubrir las necesidades nutricionales y energéticas de tu gato.",
     },
     {
+      _id: "107",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Repelente Para Gatos",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_797000-MCO43473967557_092020-O.webp",
@@ -1259,6 +1494,11 @@ const data = {
         "Repelente para gatos Nature's Miracle Pet Block No requiere para mezclar, listo para usar Formulado para mantener gatos de zonas tratadas Canela Aceite y dejar atrás un aroma fresco, limpio de aceite de zacate de limón No contiene productos químicos nocivos Para uso en interiores y al aire última intervensión de formación Los quitamanchas y olores para mascotas de Nature's Miracle han sido una marca confiable para la limpieza de desechos de mascotas durante más de 35 años.",
     },
     {
+      _id: "108",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Rascador Gato Pet Spa Divan Cartón",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_644765-MCO44935045470_022021-O.webp",
@@ -1268,6 +1508,11 @@ const data = {
         "Rascador multipropósito. Hecho con cartón corrugado para afilar uñas, hacer ejercicio y estiramiento, al igual que liberar estrés. Beneficios de los rascadores para los gatos: -Los ayuda a afilarse/renovar sus uñas. -Les permite marcar territorio durante el juego. -Hacen ejercicio y se estiran. -Liberan estrés. ",
     },
     {
+      _id: "109",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Jeringa Dispensadora Dosificadora Pastillas Perros Y Gatos",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_813519-MCO45774471774_042021-O.webp",
@@ -1276,6 +1521,11 @@ const data = {
       description: "Jeringa Dispensadora Dosificadora Pastillas Perros Y Gatos",
     },
     {
+      _id: "110",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Arenera Para Gatos Grande+filtro+pala +tapete+regalo",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_960319-MCO46714501656_072021-O.webp",
@@ -1285,6 +1535,11 @@ const data = {
         "La mejor calidad de areneras del mercado productos italianos de materiales 100% garantizados a excelente price.",
     },
     {
+      _id: "111",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Alimento Hill's Prescription Diet Urinary Care c/d Multicare para perro senior todos los tamaños sabor pollo en bolsa de 8.5lb",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_920856-MLA46237810907_062021-O.webp",
@@ -1294,6 +1549,11 @@ const data = {
         "La selección de un alimento adecuado para tu mascota es muy importante para garantizar su crecimiento, desarrollo y salud. Con esta opción de Hill's podrás cubrir las necesidades nutricionales y energéticas de tu perro.",
     },
     {
+      _id: "112",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Renovapet Elimina El Sarro Y Mal Aliento De Tus Mascotas",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_635505-MCO49118612120_022022-O.webp",
@@ -1303,6 +1563,11 @@ const data = {
         "RENOVAPETT es una solución que mejora y previene problemas bucales en tu mascota tales como: Lesiones bucales, Sarro, Gingivitis, Periodontitis, Halitosis (mal aliento). Además puedes aplicarlo en diferentes afecciones de la piel de tu mascota ya que higieniza y elimina bacterias potenciando el proceso de regeneración de tejidos afectados en tu mascota. Puedes usarlo para tratar las siguientes afecciones en la piel:",
     },
     {
+      _id: "113",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Pelota Mediana Maciza Irrompible Goma Caucho Para Perro 2x3",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_983626-MCO45688056924_042021-O.webp",
@@ -1312,6 +1577,11 @@ const data = {
         "3 Pelotas Medianas ( Tamaño: pelota de Tenis) Irrompible de Goma Maciza",
     },
     {
+      _id: "114",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Kong Classic - Juguete Interactivo Para Perro Talla M",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_947296-MCO31687065665_082019-O.webp",
@@ -1321,6 +1591,11 @@ const data = {
         "El KONG Classic ha sido el juguete Kong con más reconocimiento en los últimos 40 años. Su compuesto de goma natural roja rebota muy bien y es perfecto para perros a los que les gusta masticar.  -Perfecto para rellenar con cualquier tipo de alimento. -rebota de manera aleatoria para más diversión -Recomendado en todo el mundo por veterinarios, adiestradores y amantes de los perros -Fabricado en  los Estados Unidos. Medidas: 9 cm largo x 6 cm diámetro",
     },
     {
+      _id: "115",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Juguete Mordedor Para Perro Multifunc",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_805477-MCO45586347317_042021-O.webp",
@@ -1330,6 +1605,11 @@ const data = {
         "Este juguete para mordedura de molar para mascotas hecho de material de goma no tóxico, duradero y resistente al desgaste, adecuado para todos los perros JUGUETE INTERACTIVO MULTIFUNCIONAL: El juguete interactivo de cuerdas de bolas multifuncionales no solo es una pelota de goma que se juega solo, sino que también puede ser una herramienta de limpieza de dientes. Ideal para el juego personal, tira y afloja, atrapa",
     },
     {
+      _id: "116",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Peluche Mordedor Pollo Con Pito",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_605804-MCO45586678577_042021-O.webp",
@@ -1339,6 +1619,11 @@ const data = {
         "Peluche de Pollo para jugar con tu perro! El price solo incluye Un peluche. Este peluche con pito interno es ideal para pasar divertidos momentos con tu peludo mientras pasan el tiempo en casa o salen de paseo. Tela suave y resistente se convertirá en el preferido de tu peludo",
     },
     {
+      _id: "117",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "3 Juguetes Plasticos Medianos - Unidad a $6302",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_874754-MCO48941016716_012022-O.webp",
@@ -1348,6 +1633,11 @@ const data = {
         "Set por 3 Juguete Plástico Mediano surtidos con pito. Estos juguetes plásticos con forma son ideales morder, gracias a su tamaño y flexibilidad proporciona entretenimiento y diversión para el amo y su mascota al mismo tiempo que fortalece dientes y mandíbulas ",
     },
     {
+      _id: "118",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Juguete Mascota Pollo Chillón De Hule Gallina De Goma",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_623971-MCO45344254622_032021-O.webp",
@@ -1357,6 +1647,11 @@ const data = {
         "Juguete mascota Pollo Chillón De Hule Gallina De Goma Platico Grande DIVERTIDÍSIMO SONIDO - La carga y la diversión del sonido de graznido le brindarán a usted y a su familia innumerables horas de entretenimiento. Es el juguete perfecto para mantener a su perro ocupado y a sus hijos también les encantará. Apto para todas las edades.",
     },
     {
+      _id: "119",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Juguete Interactivo Perros Juguete Para Morder, Porta Comida",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_740111-MCO46157032111_052021-O.webp",
@@ -1366,6 +1661,11 @@ const data = {
         "Espectacular dispensador de snacks con lazo y chupa de succión, que se pega a superficies planas, haciendo que tu perro juegue con ella. Cuenta con un dispensador de alimentos o snacks que hará que tu perro esté feliz jugando e interactuando con su juguete dispensador. Su diseño ayuda también a la limpieza de los dientes de tu perro Tanto la chupa como la cuerda son de alta calidad y resistencia. El price publicado es por UNIDAD.",
     },
     {
+      _id: "120",
+      category: "pets",
+      brand: "perritus",
+      rating: 4.5,
+      numReviews: 10,
       name: "Juguete Perro Pelota Loca Interactiva Con Vibración Y Sonido",
       image:
         "https://http2.mlstatic.com/D_NQ_NP_864123-MCO49127838963_022022-O.webp",
